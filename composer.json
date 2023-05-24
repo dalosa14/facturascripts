@@ -15,7 +15,7 @@
     }
   },
   "require": {
-    "php": ">=7.2.5",
+    "php": ">=8.2",
     "mk-j/php_xlsxwriter": "0.38",
     "parsecsv/php-parsecsv": "1.*",
     "phpmailer/phpmailer": "6.*",
