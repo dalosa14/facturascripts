@@ -15,7 +15,7 @@
     }
   },
   "require": {
-
+    "ext-json/ext-json":"*",
     "php": ">=8.2",
     "mk-j/php_xlsxwriter": "0.38",
     "parsecsv/php-parsecsv": "1.*",
